@@ -11,4 +11,4 @@ _some example**steps** to run the project_
 2. haha
 3. hh
 
-![pic cof lingneng](LingNeng.jpg)
+![test](./LingNeng.jpg)
